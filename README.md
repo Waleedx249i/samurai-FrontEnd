@@ -1,47 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-    }
 
-    h1 {
-      font-size: 24px;
-    }
-
-    h2 {
-      font-size: 18px;
-    }
-
-    p {
-      margin-bottom: 10px;
-    }
-
-    ol {
-      margin-left: 20px;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    hr {
-      border: none;
-      border-top: 1px solid #ccc;
-      margin: 20px 0;
-    }
-  </style>
-</head>
-<body>
   <h1>Samurai Taxi Frontend</h1>
-
+  <img src="logo.png" alt="Samurai Taxi Logo">
   <p>This repository contains the frontend codebase for the Samurai Taxi app. It is built using Vue.js and Tailwind CSS, and utilizes the Google Maps API for displaying and interacting with maps.</p>
 
   <h2>Usage</h2>
@@ -63,12 +22,4 @@
 
   <p>Contributions to the Samurai Taxi frontend are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License. You can find more details in the <a href="LICENSE">LICENSE</a> file.</p>
-
-  <hr>
-
-  <p>Feel free to customize and modify this README file according to your specific project structure and requirements. Let me know if there's anything else I can assist you with!</p>
-</body>
-</html>
+  
