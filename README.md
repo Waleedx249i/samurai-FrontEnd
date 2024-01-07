@@ -1,6 +1,6 @@
 
   <h1>Samurai Taxi Frontend</h1>
-  <img src="public/logo.png" alt="Samurai Taxi Logo">
+  <img src="logo.png" alt="Samurai Taxi Logo">
   <p>This repository contains the frontend codebase for the Samurai Taxi app. It is built using Vue.js and Tailwind CSS, and utilizes the Google Maps API for displaying and interacting with maps.</p>
 
   <h2>Usage</h2>
